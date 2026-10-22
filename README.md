@@ -1,2 +1,0 @@
-# StudioPaint
-Studio de designs!
